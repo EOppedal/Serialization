@@ -1,6 +1,6 @@
-﻿using Encryption;
+﻿using Serializers;
 
-namespace Serializers {
+namespace Encryption {
     /// <summary>
     /// An Encrypted Version Of A ISerializer.
     /// </summary>
